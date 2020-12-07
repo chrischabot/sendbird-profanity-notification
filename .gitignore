@@ -1,0 +1,5 @@
+node_modules
+build/*
+server/firebase-auth.json
+server/node_modules
+
